@@ -1,10 +1,10 @@
 {
-  "name": "@glory/mcp-elivisa",
+  "name": "@gloryfham/mcp-elivisa",
   "version": "1.0.0",
   "description": "MCP Server for Glory visa/immigration projects (eLiVisa)",
   "type": "module",
   "bin": {
-    "glory-mcp-elivisa": "./bin/mcp.js"
+    "gloryfham-mcp-elivisa": "./bin/mcp.js"
   },
   "main": "src/index.js",
   "files": [

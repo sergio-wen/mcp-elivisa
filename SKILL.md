@@ -5,21 +5,21 @@ license: MIT
 metadata:
   author: Glory
   version: "1.0.0"
-  homepage: "https://github.com/gloryfham/mcp-elivisa"
+  homepage: "https://github.com/sergio-wen/mcp-elivisa"
   agent:
     requires:
-      bins: ["glory-mcp-elivisa"]
+      bins: ["gloryfham-mcp-elivisa"]
     install:
       - id: npm
         kind: node
-        package: "@glory/mcp-elivisa"
-        bins: ["glory-mcp-elivisa"]
+        package: "gloryfham-mcp-elivisa"
+        bins: ["gloryfham-mcp-elivisa"]
         label: "Install Glory eLivisa MCP Server"
 ---
 
 # Glory eLivisa Catalog — 签证/移民项目查询
 
-通过 MCP Server `glory-mcp-elivisa` 公司签证/移民项目库数据。
+通过 MCP Server `gloryfham-mcp-elivisa` 查询公司签证/移民项目库数据。
 
 ---
 
